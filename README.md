@@ -53,13 +53,18 @@
 
 ## Output:
 
+<img width="1211" height="757" alt="Screenshot 2026-05-24 162108" src="https://github.com/user-attachments/assets/9bc61cda-957d-4e37-b004-f908d0893af8" />
+
+
+<img width="1194" height="777" alt="image" src="https://github.com/user-attachments/assets/d2da6cfd-4a60-46c4-90ae-f6c1d1af3caf" />
+
 
 <img width="1200" height="776" alt="Screenshot 2026-05-24 161359" src="https://github.com/user-attachments/assets/28d6659b-2c6f-4dbf-8747-a4434d6d2626" />
 
 
 <img width="1189" height="787" alt="Screenshot 2026-05-24 161418" src="https://github.com/user-attachments/assets/1a495136-2894-4c5c-9240-891840cc613c" />
 
-### Name: HAARSHA NIVETHA A K
+### Name: HARSHA NIVETHA A K
 ### Register Number: 212225230097
 
 ## RESULT:
